@@ -14,7 +14,7 @@ Read more about our launch of the new events (V2) [here](http://www.gameanalytic
 Changelog
 ---------
 **2.0.0**
-* iOS SDK for V2 api
+* Android SDK for V2 api
 * progression event
 * validated business event
 * resource event
