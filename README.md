@@ -15,7 +15,6 @@ Changelog
 ---------
 **2.0.1**
 * minor bug fixes
-* fix for userid generation
 
 **2.0.0**
 * Android SDK for V2 api
