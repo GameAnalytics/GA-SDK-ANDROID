@@ -13,6 +13,10 @@ Read more about our launch of the new events (V2) [here](http://www.gameanalytic
 
 Changelog
 ---------
+**2.0.1**
+* minor bug fixes
+* fix for userid generation
+
 **2.0.0**
 * Android SDK for V2 api
 * progression event
