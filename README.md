@@ -13,6 +13,9 @@ Read more about our launch of the new events (V2) [here](http://www.gameanalytic
 
 Changelog
 ---------
+**2.0.3**
+* fix for session length
+
 **2.0.2**
 * improved session handling
 * GAPlatform.initializeWithContext(Context context) is now deprecated use GAPlatform.initializeWithActivity(Activity activity) instead, see https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki/Using-the-SDK for more details
