@@ -13,6 +13,14 @@ Read more about our launch of the new events (V2) [here](http://www.gameanalytic
 
 Changelog
 ---------
+**2.1.0**
+* improved code structure
+* added new (optional) initialization process (see wiki documentation)
+* minor bug fixes
+
+**2.0.4**
+* increased allowed character count to 64 for many parameters
+
 **2.0.4**
 * increased allowed character count to 64 for many parameters
 
