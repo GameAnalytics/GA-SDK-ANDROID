@@ -13,6 +13,9 @@ Read more about our launch of the new events (V2) [here](http://www.gameanalytic
 
 Changelog
 ---------
+**2.2.0**
+* 'Receiver not registered' bug fix
+
 **2.1.0**
 * improved code structure
 * added new (optional) initialization process (see wiki documentation)
