@@ -13,6 +13,9 @@ Read more about our launch of the new events (V2) [here](http://www.gameanalytic
 
 Changelog
 ---------
+**2.2.2**
+* no network connection bug fix
+
 **2.2.1**
 * fix related to connection changes
 
