@@ -13,6 +13,9 @@ Read more about our launch of the new events (V2) [here](http://www.gameanalytic
 
 Changelog
 ---------
+**2.3.1**
+* android.permission.WRITE_EXTERNAL_STORAGE not needed anymore
+
 **2.3.0**
 * fixed tracking bug with ad opt out enabled
 
