@@ -13,6 +13,10 @@ Read more about our launch of the new events (V2) [here](http://www.gameanalytic
 
 Changelog
 ---------
+**3.0.0b**
+* new pure java implementation
+* install size reduced
+
 **2.3.1**
 * android.permission.WRITE_EXTERNAL_STORAGE not needed anymore
 
