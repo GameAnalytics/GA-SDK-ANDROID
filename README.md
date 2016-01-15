@@ -13,7 +13,10 @@ Read more about our launch of the new events (V2) [here](http://www.gameanalytic
 
 Changelog
 ---------
-**3.0.0b**
+**3.0.1**
+* fix issue for offline initialization
+
+**3.0.0**
 * new java-only implementation
 * install size reduced
 
