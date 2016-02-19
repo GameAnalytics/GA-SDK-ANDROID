@@ -13,6 +13,10 @@ Read more about our launch of the new events (V2) [here](http://www.gameanalytic
 
 Changelog
 ---------
+**3.2.0**
+* added custom user id option
+* minor refactoring
+
 **3.1.0**
 * modified session end detection when using third party ads
 * minor bug fixes
