@@ -13,6 +13,9 @@ Read more about our launch of the new events (V2) [here](http://www.gameanalytic
 
 Changelog
 ---------
+**3.2.1**
+* moved custom id from initialize method to seperate configuration method
+
 **3.2.0**
 * added custom user id option
 * minor refactoring
