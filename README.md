@@ -13,6 +13,9 @@ Read more about our launch of the new events (V2) [here](http://www.gameanalytic
 
 Changelog
 ---------
+**3.2.3**
+* fixed bug related to network changes for Android API level 23 and above
+
 **3.2.2**
 * updated google play services libraries to 8.4.0
 
