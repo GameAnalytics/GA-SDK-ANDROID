@@ -5,8 +5,6 @@ GameAnalytics native Android SDK.
 
 Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki).
 
-Read more about our launch of the new events (V2) [here](http://www.gameanalytics.com/update/).
-
 > :information_source:
 > Requirements:<br/>
 > **Android:** Gingerbread 2.3.3 (API level 10) and up
@@ -20,7 +18,7 @@ Changelog
 * updated google play services libraries to 8.4.0
 
 **3.2.1**
-* moved custom id from initialize method to seperate configuration method
+* moved custom id from initialize method to separate configuration method
 
 **3.2.0**
 * added custom user id option
