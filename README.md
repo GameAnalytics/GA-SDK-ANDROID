@@ -11,6 +11,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 
 Changelog
 ---------
+**3.2.6**
+* external storage read and write permissions are now optional
+
 **3.2.5**
 * fixed validator to allow 'cocos2d' as sdk wrapper
 
