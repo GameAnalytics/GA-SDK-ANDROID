@@ -11,6 +11,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 
 Changelog
 ---------
+**3.3.0**
+* manual session handling functionality added
+
 **3.2.6**
 * external storage read and write permissions are now optional
 
