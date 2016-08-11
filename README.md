@@ -11,6 +11,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 
 Changelog
 ---------
+**3.3.1**
+* fixed bug for client timestamp handling and session length in certain edge cases
+
 **3.3.0**
 * manual session handling functionality added
 
