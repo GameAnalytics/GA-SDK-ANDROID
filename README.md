@@ -11,6 +11,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 
 Changelog
 ---------
+**3.4.0**
+* updated google play services libraries to 9.4.0
+
 **3.3.1**
 * fixed bug for client timestamp handling and session length in certain edge cases
 
