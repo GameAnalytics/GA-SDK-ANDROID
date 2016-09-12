@@ -11,6 +11,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 
 Changelog
 ---------
+**3.4.1**
+* small fix related to manual session handling
+
 **3.4.0**
 * updated google play services libraries to 9.4.0
 
@@ -27,7 +30,7 @@ Changelog
 * fixed validator to allow 'cocos2d' as sdk wrapper
 
 **3.2.4**
-* fixed the AndroidManifest.xml inside the .aar file 
+* fixed the AndroidManifest.xml inside the .aar file
 
 **3.2.3**
 * fixed bug related to network changes for Android API level 23 and above
