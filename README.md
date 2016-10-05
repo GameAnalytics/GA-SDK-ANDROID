@@ -11,6 +11,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 
 Changelog
 ---------
+**3.4.2**
+* changed from using com.google.android.gms:play-services-basement:9.4.0 and com.google.android.gms:play-services-ads:9.4.0 to only use com.google.android.gms:play-services-base:9.4.0 dependency
+
 **3.4.1**
 * small fix related to manual session handling
 
