@@ -11,6 +11,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 
 Changelog
 ---------
+**3.4.4**
+* allowing not to send value with design events instead of sending 0
+
 **3.4.3**
 * bug fix to design events sent without value
 
