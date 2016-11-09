@@ -11,6 +11,10 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 
 Changelog
 ---------
+[//]: <> (CHANGELOG_TOP)
+**3.4.5**
+* fixed bug when using manual session handling
+
 **3.4.4**
 * allowing not to send value with design events instead of sending 0
 
