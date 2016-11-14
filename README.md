@@ -11,7 +11,7 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 
 Changelog
 ---------
-<!--CHANGELOG_TOP)-->
+<!--(CHANGELOG_TOP)-->
 **3.4.5**
 * fixed bug when using manual session handling
 
