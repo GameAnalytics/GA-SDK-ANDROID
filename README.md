@@ -12,6 +12,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.4.7**
+* fixed onstop crash when using manual session handling
+
 **3.4.6**
 * possible to set custom dimensions and demographics before initialising sdk
 
