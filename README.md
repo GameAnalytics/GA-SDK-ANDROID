@@ -12,6 +12,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.4.8**
+* added bundle_id, app version and app build tracking
+
 **3.4.7**
 * fixed onstop crash when using manual session handling
 
