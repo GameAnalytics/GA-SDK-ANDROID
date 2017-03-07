@@ -12,6 +12,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.4.12**
+* version validator updated with gamemaker
+
 **3.4.11**
 * bug fix to google AID fallback
 
