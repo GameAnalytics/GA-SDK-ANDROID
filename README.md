@@ -12,6 +12,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.4.14**
+* session length precision improvement
+
 **3.4.13**
 * validator bug fixes
 
