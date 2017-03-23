@@ -12,7 +12,7 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
-**3.9.16**
+**3.4.16**
 * bug fix for end session when using manual session handling
 
 **3.4.15**
