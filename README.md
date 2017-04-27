@@ -12,6 +12,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.4.18**
+* updated to v10.2.1 of Google Play Services libraries
+
 **3.4.17**
 * added fallback if sdk is used without google play services libraries
 
