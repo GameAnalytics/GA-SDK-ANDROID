@@ -7,7 +7,7 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 
 > :information_source:
 > Requirements:<br/>
-> **Android:** Gingerbread 2.3.3 (API level 10) and up
+> **Android:** Ice Cream Sandwich 4.0 (API level 14) and up
 
 Changelog
 ---------
