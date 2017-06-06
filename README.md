@@ -7,7 +7,10 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 
 > :information_source:
 > Requirements:   
-> **Android:** Ice Cream Sandwich 4.0 (API level 14) and up
+> **Android:** Ice Cream Sandwich 4.0 (API level 14) and up   
+>   
+> **Build size:**   
+> Note that download size differ from the actual build size. The SDK build size is only around 49Kb and the dependecies take up to 820Kb depending if your app already uses some of the same dependencies.
 
 Changelog
 ---------
