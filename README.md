@@ -15,6 +15,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.5.4**
+* small fix to IMEI request code
+
 **3.5.3**
 * fixed IMEI request code to be within a valid range (16-bits)
 
