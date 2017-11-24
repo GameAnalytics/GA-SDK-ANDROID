@@ -15,6 +15,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.5.5**
+* small correction to use int instead of double for session num
+
 **3.5.4**
 * small fix to IMEI request code
 
