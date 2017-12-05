@@ -15,6 +15,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.5.6**
+* added more general exception around http requests
+
 **3.5.5**
 * small correction to use int instead of double for session num
 
