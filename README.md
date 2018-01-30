@@ -15,6 +15,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.5.7**
+* added 'nativescript' value to version validator
+
 **3.5.6**
 * added more general exception around http requests
 
