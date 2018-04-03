@@ -15,6 +15,9 @@ Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.5.10**
+* added 'construct' to version validator
+
 **3.5.9**
 * added 'cordova' value to version validator
 
