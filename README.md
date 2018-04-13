@@ -3,7 +3,7 @@ GA-SDK-ANDROID
 
 GameAnalytics native Android SDK.
 
-Documentation in the [wiki](https://github.com/GameAnalytics/GA-SDK-ANDROID/wiki).
+Documentation can be found [here](https://gameanalytics.com/docs/android-sdk).
 
 > :information_source:
 > Requirements:   
