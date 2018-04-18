@@ -15,6 +15,10 @@ Documentation can be found [here](https://gameanalytics.com/docs/android-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.5.11**
+* fixed various bugs
+* updated version of google play services library that the SDK is compiled against
+
 **3.5.10**
 * added 'construct' to version validator
 
