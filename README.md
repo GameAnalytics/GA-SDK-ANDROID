@@ -15,6 +15,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/android-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.6.0**
+* fixes for session handling
+
 **3.5.12**
 * events are now prevented from being added to internal database when no session has started yet
 * fixed bug which could potentially skew session length metrics
