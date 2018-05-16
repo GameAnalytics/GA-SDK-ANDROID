@@ -15,6 +15,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/android-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.6.2**
+* added stencyl version validator
+
 **3.6.1**
 * added custom dimensions to design and error events
 
