@@ -15,6 +15,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/android-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.6.3**
+* fix to collecting channel id
+
 **3.6.2**
 * added stencyl version validator
 
