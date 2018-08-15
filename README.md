@@ -15,7 +15,7 @@ Documentation can be found [here](https://gameanalytics.com/docs/android-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
-**3.0.0**
+**4.0.0**
 * added command center functionality
 
 **3.6.3**
