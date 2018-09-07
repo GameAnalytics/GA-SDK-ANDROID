@@ -15,6 +15,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/android-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.1.0**
+* added generic c++ wrapper
+
 **4.0.1**
 * updated google play services version
 
