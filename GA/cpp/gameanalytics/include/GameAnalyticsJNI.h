@@ -23,6 +23,7 @@
 namespace gameanalytics {
     extern "C"
     {
+        extern void jni_setJavaVM(JavaVM* vm);
         extern void jni_setContext(jobject activity);
         
         extern void jni_configureAvailableCustomDimensions01(const std::vector<std::string>& list);
