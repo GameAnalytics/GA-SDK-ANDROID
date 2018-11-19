@@ -15,6 +15,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/android-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.1.2**
+* fixed validation for business events
+
 **4.1.1**
 * fixes to c++ wrapper
 
