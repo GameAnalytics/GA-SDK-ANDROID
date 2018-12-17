@@ -15,6 +15,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/android-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.2.0**
+* added automatic error reporting
+
 **4.1.2**
 * fixed validation for business events
 

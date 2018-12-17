@@ -51,6 +51,7 @@ namespace gameanalytics {
         extern void jni_setEnabledInfoLog(bool flag);
         extern void jni_setEnabledVerboseLog(bool flag);
         extern void jni_setEnabledManualSessionHandling(bool flag);
+        extern void jni_setEnabledErrorReporting(bool flag);
         extern void jni_setCustomDimension01(const char *customDimension);
         extern void jni_setCustomDimension02(const char *customDimension);
         extern void jni_setCustomDimension03(const char *customDimension);
