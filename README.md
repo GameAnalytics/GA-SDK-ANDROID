@@ -15,6 +15,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/android-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.3.0**
+* added enable/disable event submission function
+
 **4.2.0**
 * added automatic error reporting
 
