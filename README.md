@@ -5,6 +5,8 @@ GameAnalytics native Android SDK.
 
 Documentation can be found [here](https://gameanalytics.com/docs/android-sdk).
 
+If you have any issues or feedback regarding the SDK, please contact our friendly support team [here](https://gameanalytics.com/contact).
+
 > :information_source:
 > Requirements:   
 > **Android:** Ice Cream Sandwich 4.0 (API level 14) and up   
