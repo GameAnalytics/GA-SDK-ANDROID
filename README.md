@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.3.2**
+* added better internal error logging
+
 **4.3.1**
 * removed unused fabric vesion file
 
