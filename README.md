@@ -17,6 +17,10 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.4.0**
+* improved device identifier flow
+* OPS: refactored IMEI code out into a seperate library, please check the documentation page for how to use it now (only relevant for apps using IMEI ids)
+
 **4.3.4**
 * correct urls for events
 
