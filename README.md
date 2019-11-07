@@ -20,6 +20,7 @@ Changelog
 **4.4.0**
 * improved device identifier flow
 * OPS: refactored IMEI code out into a seperate library, please check the documentation page for how to use it now (only relevant for apps using IMEI ids)
+* removed dependency to google play services
 
 **4.3.4**
 * correct urls for events
