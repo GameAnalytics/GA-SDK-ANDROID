@@ -47,6 +47,9 @@ namespace gameanalytics {
         extern void jni_addDesignEvent(const char *eventId, const char *fields);
         extern void jni_addDesignEventWithValue(const char *eventId, float value, const char *fields);
         extern void jni_addErrorEvent(int severity, const char *message, const char *fields);
+        extern void jni_addAdEventWithDuration(int adAction, int adType, const char *adSdkName, const char *adPlacement, long duration);
+        extern void jni_addAdEventWithReason(int adAction, int adType, const char *adSdkName, const char *adPlacement, int noAdReason);
+        extern void jni_addAdEvent(int adAction, int adType, const char *adSdkName, const char *adPlacement);
 
         extern void jni_setEnabledInfoLog(bool flag);
         extern void jni_setEnabledVerboseLog(bool flag);
