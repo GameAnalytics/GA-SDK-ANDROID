@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**5.1.2**
+* added session_num init requests
+
 **5.1.1**
 * removed gender, birth year and facebook methods
 
