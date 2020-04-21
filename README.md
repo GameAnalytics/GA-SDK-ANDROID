@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**5.1.4**
+* added support for instant apps
+
 **5.1.3**
 * improved event processing queue thread
 
