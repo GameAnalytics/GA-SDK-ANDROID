@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**5.2.5**
+* removed android:allowBackup="true" from manifest file since the value by default is true anyway
+
 **5.2.4**
 * fixed progression events with scores
 
