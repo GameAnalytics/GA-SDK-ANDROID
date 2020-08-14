@@ -9,7 +9,7 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 
 > :information_source:
 > Requirements:   
-> **Android:** Ice Cream Sandwich 4.0 (API level 14) and up   
+> **Android:** Jelly Bean 4.1 (API level 16) and up   
 >   
 > **Build size:**   
 > Note that download size differ from the actual build size. The SDK build size is only around **49Kb** and the dependencies take up to **820Kb** depending if your app already uses some of the same dependencies.
