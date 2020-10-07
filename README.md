@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**5.2.7**
+* improved user identifier flow
+
 **5.2.6**
 * fixed google ad id not updating after reset id only if you totally kill the app and then restart it, now it will update after starting a new session
 
