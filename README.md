@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**5.3.1**
+* updated validator for impression events
+
 **5.3.0**
 * added ad network version as argument for impression events
 
