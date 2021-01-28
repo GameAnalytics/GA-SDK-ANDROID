@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**5.3.6**
+* fix to validator for client ts
+
 **5.3.5**
 * updated validator for client ts
 
