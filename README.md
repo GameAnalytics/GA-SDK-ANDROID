@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**5.4.1**
+* fix for OAID logic
+
 **5.4.0**
 * added support for OAID
 * renamed a lot of function names in the gameanalytics api so this might break your build
