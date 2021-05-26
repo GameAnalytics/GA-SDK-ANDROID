@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**5.4.3**
+* added support for max and aequus for impression events
+
 **5.4.2**
 * added helper methods for topon and hyperbid impression events
 
