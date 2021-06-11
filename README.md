@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**5.4.4**
+* prepared for google advertising identifier changes (will not use google advertising identifier when user has opted out)
+
 **5.4.3**
 * added support for max and aequus for impression events
 
