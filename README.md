@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.1.0**
+* added custom events fields feature
+
 **6.0.1**
 * added flutter to sdk version validator
 
