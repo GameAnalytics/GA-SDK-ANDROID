@@ -19,6 +19,7 @@ Changelog
 <!--(CHANGELOG_TOP)-->
 **6.1.1**
 * added missing function for impression events
+* added functionality to force a new user in a/b testing without having to uninstall app first, simply use custom user id function to set a new user id which hasn't been used yet
 
 **6.1.0**
 * added custom events fields feature
