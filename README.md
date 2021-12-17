@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.2.3**
+* added app set id to events when it is available
+
 **6.2.2**
 * added error events to be sent for invalid custom event fields used
 * added optional mergeFields argument to event methods to merge with global custom fields instead of overwrite them
