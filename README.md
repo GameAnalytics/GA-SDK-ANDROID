@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.2.5**
+* removed imei identifiers and other alternative identifiers from user identifier logic
+
 **6.2.4**
 * fixed impression event methods for wrapper SDKs
 
