@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.2.6**
+* changed target sdk to be 30 instead of 31
+
 **6.2.5**
 * removed imei identifiers and other alternative identifiers from user identifier logic
 
