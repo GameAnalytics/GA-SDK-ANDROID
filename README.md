@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.2.9**
+* small correct for event uuid field name
+
 **6.2.8**
 * changed event uuid field name
 
