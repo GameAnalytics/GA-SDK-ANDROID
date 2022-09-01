@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**1.1.1**
+* test
+
 **6.3.0**
 * Added health event
 * Includes FPS data measurement automatically sent at the end of the session
