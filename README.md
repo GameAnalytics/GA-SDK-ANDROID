@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.3.2**
+* bugfix for health event error reporting
+
 **6.3.1**
 * fixed fps crash if the SDK doesn't run on the main thread (will output an error instead)
 
