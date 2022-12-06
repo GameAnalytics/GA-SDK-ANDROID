@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.3.3**
+* Temporary removal of the health event until the new health event ingestion is ready (old version was unstable in rare cases)
+
 **6.3.2**
 * bugfix for health event error reporting
 
