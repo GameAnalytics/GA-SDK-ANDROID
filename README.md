@@ -17,6 +17,12 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.3.4**
+* new version of the health event
+* better internal error tracking
+* additonal validation for the impression events
+* various bug fixes
+
 **6.3.3**
 * Temporary removal of the health event until the new health event ingestion is ready (old version was unstable in rare cases)
 
