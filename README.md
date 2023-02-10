@@ -23,6 +23,12 @@ Changelog
 * additonal validation for the impression events
 * various bug fixes
 
+**6.3.4**
+* new version of the health event
+* better internal error tracking
+* additonal validation for the impression events
+* various bug fixes
+
 **6.3.3**
 * Temporary removal of FPS tracking due to rare issues observed. FPS tracking will be reintroduced in the future once the cause is identified and fixed.
 
