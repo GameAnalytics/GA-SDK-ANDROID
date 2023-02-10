@@ -24,7 +24,7 @@ Changelog
 * various bug fixes
 
 **6.3.3**
-* Temporary removal of the health event until the new health event ingestion is ready (old version was unstable in rare cases)
+* Temporary removal of FPS tracking due to rare issues observed. FPS tracking will be reintroduced in the future once the cause is identified and fixed.
 
 **6.3.2**
 * bugfix for health event error reporting
