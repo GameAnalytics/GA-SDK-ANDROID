@@ -17,6 +17,10 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.4.0**
+* possibility to opt out of GAID tracking
+* bug fixes
+
 **6.3.4**
 * new version of the health event
 * better internal error tracking
