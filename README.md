@@ -17,6 +17,10 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.4.1**
+* added optional local event caching for disabled submission
+* support for app open ads
+
 **6.4.0**
 * possibility to opt out of GAID tracking
 * bug fixes
