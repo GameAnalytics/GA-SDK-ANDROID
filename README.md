@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.4.3**
+* increased resource currency limit from 20 to 50:added external user id:bug fixes
+
 **6.4.2**
 * fixed an important bug when generating user ids which could affect metrics
 

@@ -38,6 +38,7 @@ namespace gameanalytics {
         extern void jni_configureGameEngineVersion(const char *gameEngineVersion);
         extern void jni_configureAutoDetectAppVersion(bool flag);
         extern void jni_configureUserId(const char *userId);
+        extern void jni_configureExternalUserId(const char *userId);
         extern void jni_initialize(const char *gameKey, const char *gameSecret);
 
         extern void jni_addBusinessEventWithReceipt(const char *currency, int amount, const char *itemType, const char *itemId, const char *cartType, const char *receipt, const char *store, const char *signature, const char *fields, bool mergeFields);
