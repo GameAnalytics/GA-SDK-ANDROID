@@ -17,6 +17,10 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.5.0-beta**
+* added optional session performance metrics collection
+* added optional app boot-time metric collection
+
 **6.4.3**
 * increased resource currency limit from 20 to 50
 * added external user id
