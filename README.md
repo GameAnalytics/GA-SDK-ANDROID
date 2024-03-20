@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.5.1**
+* calculate app boot metric more accurately
+
 **6.5.0**
 * added optional session performance metrics collection
 * added optional app boot-time metric collection
