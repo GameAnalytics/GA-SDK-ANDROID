@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.5.2**
+* removed WAKE_LOCK permission
+
 **6.5.1**
 * calculate app boot metric more accurately
 
