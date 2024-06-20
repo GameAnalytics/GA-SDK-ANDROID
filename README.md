@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.6.1**
+* removed com.google.android.gms.games dependency:removed redundant exception logs
+
 **6.6.0**
 * added checks to safely upgrade from 6.4.0 without having any impact on existing metrics
 * last used SDK version will be cached
