@@ -17,6 +17,10 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.6.2**
+* increased SDK target version
+* health event bugfix for unreal engine builds
+
 **6.6.1**
 * removed com.google.android.gms.games dependency:removed redundant exception logs
 
