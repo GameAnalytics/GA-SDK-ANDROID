@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**6.6.3**
+* bugfix for GetUserId:updated to java 11
+
 **6.6.2**
 * increased SDK target version
 * health event bugfix for unreal engine builds
