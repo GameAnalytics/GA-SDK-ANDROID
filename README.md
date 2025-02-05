@@ -18,7 +18,8 @@ Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
 **6.6.3**
-* bugfix for GetUserId:updated to java 11
+* bugfix for GetUserId
+* updated to java 11
 
 **6.6.2**
 * increased SDK target version
