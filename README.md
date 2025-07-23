@@ -18,7 +18,8 @@ Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
 **6.7.0**
-* bugfix: setGAIDTracking now properly affects OAID:added identifier type and reworked user id retrieval logic
+* bugfix: setGAIDTracking now properly affects OAID
+* added identifier type and reworked user id retrieval logic
 
 **6.6.3**
 * bugfix for GetUserId
