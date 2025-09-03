@@ -17,6 +17,11 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**7.0.0**
+* remote configs v3 with json support
+* improved fps tracking for the health event
+* added playmetrics tracking, getElapsedSessionTime and getElapsedTimeFromAllSessions
+
 **6.7.0**
 * bugfix: setGAIDTracking now properly affects OAID
 * added identifier type and reworked user id retrieval logic
