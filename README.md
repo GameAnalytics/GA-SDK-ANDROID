@@ -17,6 +17,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**7.0.2**
+* removed instant app dependency:increased minSDK version to 21
+
 **7.0.1**
 * fixed a bug when trying to get the session time as int instead of long
 * lifetime session length is now properly modified when fixing missing session end events
