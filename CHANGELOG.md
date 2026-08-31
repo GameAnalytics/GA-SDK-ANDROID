@@ -2,7 +2,6 @@
 
 All notable changes to this project will be documented in this file.
 
-<!--(CHANGELOG_TOP)-->
 ## [7.0.2]
 - removed instant app dependency:increased minSDK version to 21
 
