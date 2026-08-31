@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [7.1.0]
+- A/B testing ids are now mirrored to shared preferences on every init response so a cleared test also clears the backup
+- removed ab id and ab variant id from the init request
+- updated build toolchain to compile/target SDK 37, AGP 9, Gradle 9.7.1, Java 11 and NDK r29
+
 ## [7.0.2]
 - removed instant app dependency:increased minSDK version to 21
 
