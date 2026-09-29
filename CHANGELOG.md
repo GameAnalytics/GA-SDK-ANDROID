@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [7.2.0]
+- added addBusinessEvent overloads taking a ReceiptInfo (store, purchaseToken, productId) so purchases can be validated against the store receipt; the existing receipt/store/signature overloads stay supported
+- added sdk error event actions and parameters for the new receipt validation failures
+- fixed duplicate id for the AdNetworkVersion sdk error parameter
+- fixed a crash when the server returns 401
+
 ## [7.1.0]
 - A/B testing ids are now mirrored to shared preferences on every init response so a cleared test also clears the backup
 - removed ab id and ab variant id from the init request
